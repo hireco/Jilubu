@@ -9,8 +9,15 @@ I think,for most people, the server-side program is too troublesome. It's too he
 ## About search engine
 As you can see, the URLs of the demo site contain hash, a string led by #. This makes those search engines, such as baidu,sogou, can not visit these URLs. In fact, the staticPageMaker can produce the html file of each URL so that all web crawlers can find all the pages.
 
-## Markdown
-How to write new article for the website? Markdown is the powerful tool behind it. Enjoy using markdown!
+## Main features
+### Markdown
+How to write new article for the website? Markdown is the powerful tool behind it. Enjoy using markdown.
+### Background music
+When switching to different pages, it supports continuous playing of background music.
+### Dynamic pages loaded by JSON data
+Easy to update the content, easy to cache the history data so that browseing the page quickly. 
+### Responsive layout
+Suitable for mainstream desktop browsers and mobile devices.
 
 ## Other tools
 Of course, I know hexo, hugo,jekyll and ghost, they are very powerful and convenient, but also too sophisticated to use for many people. Too many requirements need to be installed before it can be used properly.
