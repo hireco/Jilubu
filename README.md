@@ -1,4 +1,4 @@
-# staticPageMaker
+# Jilubu
 
 ## Description
 A python program to automatically generate and maintain the static personal homepage for GitHub pages, which is convenient to update synchronously.
@@ -23,6 +23,6 @@ Suitable for mainstream desktop browsers and mobile devices.
 Of course, I know hexo, hugo,jekyll and ghost, they are very powerful and convenient, but also too sophisticated to use for many people. Too many requirements need to be installed before it can be used properly.
 
 ## A demo
-A demo of a static website produced by this tool is [here](https://jilubu.github.io/)
+A demo of a static website produced by this tool is [here](https://hireco.github.io/)
 
 
